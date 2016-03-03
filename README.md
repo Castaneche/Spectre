@@ -1,3 +1,3 @@
 # Spectre
-Une simulation des spectres de lumiere (soleil, hydrogene ...).
+Une simulation des spectres de lumiere (soleil, hydrogene ...).</br>
 Projet ICN.
